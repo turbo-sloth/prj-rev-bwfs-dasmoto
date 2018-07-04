@@ -1,0 +1,40 @@
+html {
+  font-family: Helvetica;
+}
+
+#header-image {
+  background-image: url("../resources/images/image1.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-size: auto;
+}
+
+#header-image h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.pricing {
+  color: blue;
+  font-weight: bold;
+}
